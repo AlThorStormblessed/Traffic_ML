@@ -9,7 +9,7 @@ For accident detection, run accident_detection_video.py, replacing accident.mp4 
 https://github.com/AlThorStormblessed/Traffic_ML/assets/86941904/b3424fc7-5ccd-40bb-818e-45c1f61e6ee1
 
 
-For counting vehicles in a video, run traffic_2.py, replacing traffic4.mp4 in the python file with a video of your choice. The output goes to traffic_proc3.mp4:
+For counting vehicles in a video, run traffic_2.py, replacing traffic4.mp4 in the python file with a video of your choice. The output goes to traffic_counter.mp4:
 
 
 https://github.com/AlThorStormblessed/Traffic_ML/assets/86941904/53493950-210b-4c5e-b3f0-6e61bf2f3243
